@@ -7,7 +7,7 @@ public class Ejercicio7
 {
     static void Main(string[] args)
     {
-        // declaracion de variables
+        // 2 declaracion de variables
 
         double num1, num2, divi;
 
@@ -20,8 +20,11 @@ public class Ejercicio7
         num2 = Convert.ToDouble(Console.ReadLine());
 
         // 4 realizar los calculos
+
+        if num1 = = 0
         if (num1 > num2)
         {
+            
             divi = num1 / num2;
         }
         else divi = num2 / num1;
